@@ -1,5 +1,5 @@
 # eusa2excel
-### note : wrote this document in a hurry, will be updating it with  a better guidefor installation soon.
+### note : wrote this document in a hurry, will be updating it with  a better guide for installation soon.
 ###  If you are from University of Edinburgh, drop me an email and I can help you set it up.
 
 Currently, if you are a committee member for any EUSA society, you will realize that you have to manually transfer every registered member or paid member into an excel file from the EUSA web page.
